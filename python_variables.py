@@ -16,11 +16,11 @@ type(travel_allowance)  # => Float
 
 # How to take user input
 
-user_input = input("Please enter your name\n=> ")  # Getting user input
+user_input = input("Please enter your name\n=> ")  # Getting user input with a prompt
 
 # How to display data
 
-print(user_input)
+print(user_input)  # Displays `user_input` in command line
 
 # How to save as csv
 
@@ -28,4 +28,4 @@ with open("names.csv", "w", newline="") as csv_file:
     names_writer = csv.writer(
         csv_file, delimiter=" ", quotechar="|", quoting=csv.QUOTE_MINIMAL
     )
-    names_writer.writerow(list(user_input))
+    names_writer.writerow(list(user_input)) # Adds `user_input` in a new row
