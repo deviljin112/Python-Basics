@@ -22,3 +22,13 @@ Translation of the code into readable language
 ## Overwriting variables
 
 ## Getting user input
+
+## Taks
+
+Create 3 variables to get user data
+
+- Name
+- Date of birth
+- age
+
+Display all data afterwards.

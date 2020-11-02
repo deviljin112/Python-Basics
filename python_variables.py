@@ -28,4 +28,4 @@ with open("names.csv", "w", newline="") as csv_file:
     names_writer = csv.writer(
         csv_file, delimiter=" ", quotechar="|", quoting=csv.QUOTE_MINIMAL
     )
-    names_writer.writerow(list(user_input)) # Adds `user_input` in a new row
+    names_writer.writerow(list(user_input))  # Adds `user_input` in a new row
