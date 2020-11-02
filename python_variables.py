@@ -18,11 +18,11 @@ type(travel_allowance)  # => Float
 
 user_input = input("Please enter your name\n=> ")  # Getting user input
 
-# Display data
+# How to display data
 
 print(user_input)
 
-# Save as csv
+# How to save as csv
 
 with open("names.csv", "w", newline="") as csv_file:
     names_writer = csv.writer(
