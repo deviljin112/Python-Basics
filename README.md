@@ -1,4 +1,4 @@
-# Sparta-Python
+# Python
 
 ## Why Python
 
@@ -23,7 +23,7 @@ Translation of the code into readable language
 
 ## Getting user input
 
-## Taks
+## Task
 
 Create 3 variables to get user data
 
