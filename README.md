@@ -32,3 +32,10 @@ Create 3 variables to get user data
 - age
 
 Display all data afterwards.
+
+## Task 2
+
+- Get user data
+- Display Message "Your age is "
+- Address - Including post code and first line of address - house number
+- DOB
