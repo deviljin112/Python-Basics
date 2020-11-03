@@ -11,13 +11,11 @@
 
 ## Task
 
-Create 3 variables to get user data
-
+- Create 3 variables to get user data
 - Name
 - Date of birth
 - age
-
-Display all data afterwards.
+- Display all data afterwards.
 
 ## Task 2
 
@@ -25,3 +23,11 @@ Display all data afterwards.
 - Display Message "Your age is "
 - Address - Including post code and first line of address - house number
 - DOB
+
+## Task 3
+
+- Create a mix datatype list
+- List must contain 7 items
+- Display the type of the data in the list
+- Add, remove, replace and pop
+- Use indexing to print the list in reverse order
