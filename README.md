@@ -11,6 +11,8 @@
 
 ## Task
 
+Available: [here](https://github.com/deviljin112/Python-Task-1)
+
 - Create 3 variables to get user data
 - Name
 - Date of birth
@@ -19,12 +21,16 @@
 
 ## Task 2
 
+Available: [here](https://github.com/deviljin112/Python-Task-2)
+
 - Get user data
 - Display Message "Your age is "
 - Address - Including post code and first line of address - house number
 - DOB
 
 ## Task 3
+
+Available: [here](https://github.com/deviljin112/Python-Task-3)
 
 - Create a mix datatype list
 - List must contain 7 items
