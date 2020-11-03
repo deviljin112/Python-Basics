@@ -1,3 +1,7 @@
+########################
+# Python Concatination #
+########################
+
 # What is concatination
 first_name = "James"
 middle_name = "007"

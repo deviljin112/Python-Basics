@@ -1,3 +1,7 @@
+####################
+# Python Variables #
+####################
+
 import csv
 
 # How can we create a variable
