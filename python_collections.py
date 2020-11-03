@@ -72,5 +72,3 @@ del some_dict["name"]
 
 # Clear all key-value pairs
 some_dict.clear()
-
-print(some_dict)
