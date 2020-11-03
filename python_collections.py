@@ -28,3 +28,14 @@ shopping_list.pop(0)
 
 # Replacing an object
 shopping_list[1] = "beef"
+
+# Tupels
+# Immutable, cannot be changed
+# Syntax: (var1, var2, var3)
+
+short_list = "paracetamol", "xanax", "vitamin-c", "eggs", "bread"
+
+# short_list[0] = "hello"
+# Error item does not support assignment
+
+print(short_list[0])  # => paracetamol
