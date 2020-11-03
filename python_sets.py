@@ -19,7 +19,7 @@ for v in car_parts:
 # Adding an item
 car_parts.add("Engine")
 
-# Addint multiple items
+# Adding multiple items
 car_parts.add(["Seat", "Seat Belt", "Steering Wheel"])
 
 # Removing an item
