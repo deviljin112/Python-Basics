@@ -1,5 +1,6 @@
-# Collections in python
-
+######################
+# Python Collections #
+######################
 
 ### Lists ###
 # Mutable, remove, add, change
