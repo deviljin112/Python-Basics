@@ -82,3 +82,14 @@ del some_dict["name"]
 
 # Clear all key-value pairs
 some_dict.clear()
+
+## TASK
+
+example_dict = {
+    "key": "value",
+    "name": "james",
+    "lessons": 4,
+    "lesson_names": ["operators", "data types", "variables"],
+}
+
+print(example_dict["lesson_names"][1])
