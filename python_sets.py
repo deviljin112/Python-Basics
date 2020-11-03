@@ -26,13 +26,13 @@ car_parts.add(["Seat", "Seat Belt", "Steering Wheel"])
 # If the item doesn't exist it will raise an error
 car_parts.remove("Radio")
 
-# Removing last item
-# Remember last item is unknown
-car_parts.pop()
-
 # Remove a specific item
 # If the item doesn't exist it will NOT raise an error
 car_parts.discard("Radio")
+
+# Removing last item
+# Remember last item is unknown
+car_parts.pop()
 
 # Checking if an item exists in a set
 print("Radio" in car_parts)  # => False
