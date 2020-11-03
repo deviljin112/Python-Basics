@@ -20,7 +20,7 @@ for v in car_parts:
 car_parts.add("Engine")
 
 # Adding multiple items
-car_parts.add(["Seat", "Seat Belt", "Steering Wheel"])
+car_parts.update(["Seat", "Seat Belt", "Steering Wheel"])
 
 # Removing an item
 # If the item doesn't exist it will raise an error
