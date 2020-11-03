@@ -83,8 +83,7 @@ del some_dict["name"]
 # Clear all key-value pairs
 some_dict.clear()
 
-## TASK
-
+## TASK ##
 example_dict = {
     "key": "value",
     "name": "james",
