@@ -91,4 +91,5 @@ example_dict = {
     "lesson_names": ["operators", "data types", "variables"],
 }
 
-print(example_dict["lesson_names"][1])
+# Accessing a list within a dictionary
+example_dict["lesson_names"][1]  # => data types

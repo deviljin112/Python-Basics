@@ -37,3 +37,15 @@ Available: [here](https://github.com/deviljin112/Python-Task-3)
 - Display the type of the data in the list
 - Add, remove, replace and pop
 - Use indexing to print the list in reverse order
+
+## Task 4
+
+Available: here (soon)
+
+- Create a new dictionary to store user details
+- All the details that you utilised in the last task
+- Create a list of hobbies
+- At least 3 hobbies
+- Remove, Add, Replace
+- Display Type of items
+- Display data in reverse order (hobbies)
