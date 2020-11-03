@@ -51,6 +51,7 @@ short_list[0]  # => paracetamol
 ### Dictionaries ###
 # Mutable, add, remove, pop, alter
 # Only one unique key allowed
+# Syntax: {key: value}
 
 # Create example dictionary
 some_dict = {"key": "value", "name": "hubert"}
