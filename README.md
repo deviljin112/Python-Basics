@@ -9,6 +9,14 @@
 - Extensive support libraries
 - Predominantly used in Machine learning and Data Analysis
 
+## Topics
+
+- [Variables](python_variables.py)
+- [Operators](python_operators.py)
+- [Concatination](python_concatenation.py)
+- [Collections](python_collections.py)
+- [Sets](python_sets.py)
+
 ## Task
 
 Available: [here](https://github.com/deviljin112/Python-Task-1)
