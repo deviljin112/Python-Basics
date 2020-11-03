@@ -54,11 +54,20 @@ short_list[0]  # => paracetamol
 # Syntax: {key: value}
 
 # Create example dictionary
-some_dict = {"key": "value", "name": "hubert"}
+some_dict = {"key": "value", "name": "hubert", "foo": "bar"}
 
 # Accessing a key / value
 some_dict["key"]  # => value
 some_dict.get("key")  # => value
+
+# Accessing only the keys
+some_dict.keys()
+
+# Accessing only the values
+some_dict.values()
+
+# Accessing all the pairs as tuples
+some_dict.items()
 
 # Changing a value
 some_dict["name"] = "Dev"
