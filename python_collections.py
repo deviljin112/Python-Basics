@@ -93,3 +93,23 @@ example_dict = {
 
 # Accessing a list within a dictionary
 example_dict["lesson_names"][1]  # => data types
+
+
+## TASK 2 ##
+user_details = {
+    "first_name": "Hubert",
+    "last_name": "Dev",
+    "dob": "01/01/2001",
+    "address": "100 Some Road",
+    "course": "DevOps",
+    "grades": ["A", "A", "B"],
+    "hobbies": ["skating", "gaming", "coding"],
+}
+
+# Adding an item to "hobbies" list
+user_details["hobbies"].append("sleeping")
+
+# Removing an item from "hobbies" list
+user_details["hobbies"].remove("gaming")
+
+print(user_details["hobbies"])
